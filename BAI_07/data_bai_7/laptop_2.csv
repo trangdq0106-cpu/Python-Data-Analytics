@@ -1,0 +1,10 @@
+laptop_ID,Company,Product,Inches,ScreenResolution,Cpu
+12,Asus,ZenBook Pro,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz
+13,Asus,ZenBook UX430UN,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz
+14,Dell,Inspiron 3567,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz
+15,Dell,Inspiron 3567,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz
+16,HP,250 G6,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz
+17,HP,250 G6,15.6,1366x768,Intel Core i5 7200U 2.5GHz
+18,HP,250 G6,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz
+19,Lenovo,IdeaPad 320-15IKB,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz
+20,Lenovo,IdeaPad 320-15IKBN,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz

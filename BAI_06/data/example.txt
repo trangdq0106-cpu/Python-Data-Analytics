@@ -1,0 +1,27 @@
+data = {'ID':[1,2,3],
+       'Name':['Alice','Bob','Charlie'],
+        'Age':[25,30,35], 
+        'Salary':[5000,7000,9000]
+       }
+df = pd.DataFrame(data)
+df
+
+
+import pandas as pd
+
+# Dữ liệu
+data = {
+    "ID": [1, 2, 3],
+    "Name": ["Alice", "Bob", "Charlie"],
+    "Age": [25, 30, 35],
+    "Salary": [5000, 7000, 9000]
+}
+
+# Tạo DataFrame
+df = pd.DataFrame(data)
+
+# Ghi vào file CSV với dấu phân tách là ";"
+df.to_csv("data/example_semi.csv", sep=";", index=False, encoding="utf-8")
+
+print("File CSV đã được tạo thành công!")
+
